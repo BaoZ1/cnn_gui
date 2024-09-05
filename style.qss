@@ -1,0 +1,24 @@
+/* * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: white;
+}
+
+QScrollBar:vertical {
+  width: 3;
+  color: grey;
+  background-color: grey;
+}
+
+ObjectList {
+  max-width: 200;
+}
+
+#toolBarL::items {
+  padding: 50;
+}
+
+QPushButton {
+  border: 2 solid black;
+} */
